@@ -1,1 +1,5 @@
-unfuck-cloudkick.sh: hits a sekret URL for each checkid (that is in the error state), to force cloudkick to re-run the check.
+unfuck-cloudkick.sh: 
+    Hits a sekret URL for each checkid (that is in the error state), to force cloudkick to re-run the check.
+    This is often necessary, especially when a check sits in the "unkown - stay tuned" state.
+
+
