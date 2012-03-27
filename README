@@ -1,0 +1,1 @@
+unfuck-cloudkick.sh: hits a sekret URL for each checkid (that is in the error state), to force cloudkick to re-run the check.
